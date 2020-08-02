@@ -3,6 +3,14 @@
     "version": "1.0.0",
     "description": "Minimal test badge for verdaccio-badger middleware plugin",
     "main": "index.js",
+    "bugs": {
+        "url": "https://github.com/PaddeK/verdaccio-badger-test/issues"
+    },
+    "homepage": "https://github.com/PaddeK/verdaccio-badger-test",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaddeK/verdaccio-badger-test.git"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
