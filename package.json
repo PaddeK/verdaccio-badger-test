@@ -18,5 +18,8 @@
     "author": {
         "name": "Patrick Klös",
         "email": "pkloes@web.de"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
